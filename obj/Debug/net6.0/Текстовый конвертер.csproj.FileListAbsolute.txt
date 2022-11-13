@@ -1,0 +1,17 @@
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Текстовый конвертер.exe
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Текстовый конвертер.deps.json
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Текстовый конвертер.runtimeconfig.json
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Текстовый конвертер.dll
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Текстовый конвертер.pdb
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.AssemblyInfo.cs
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.csproj.CopyComplete
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.dll
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\refint\Текстовый конвертер.dll
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.pdb
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\Текстовый конвертер.genruntimeconfig.cache
+C:\Users\KS\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net6.0\ref\Текстовый конвертер.dll
